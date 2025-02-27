@@ -1,14 +1,4 @@
 === DupleXer - WordPress Post Duplicator ===
-Contributors: Al Mumeetu Saikat
-Tags: duplicate, post duplicator, page duplicator, woocommerce duplicate
-Requires at least: 5.0
-Tested up to: 6.4
-Requires PHP: 7.2
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-== Description ==
 DupleXer is a simple plugin that allows you to duplicate posts, pages, and WooCommerce products with one click.
 
 == Installation ==
@@ -18,8 +8,4 @@ DupleXer is a simple plugin that allows you to duplicate posts, pages, and WooCo
 == Frequently Asked Questions ==
 = Does it support WooCommerce? =
 Yes, you can duplicate WooCommerce products with this plugin.
-
-== Changelog ==
-= 1.0.0 =
-* Initial release.
 
